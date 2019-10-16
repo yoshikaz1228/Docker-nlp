@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-python3
+FROM tensorflow/tensorflow:latest-py3
 
 
 LABEL maintainer="yoshikaz"
