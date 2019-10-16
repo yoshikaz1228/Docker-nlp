@@ -98,3 +98,5 @@ RUN apt-get update && apt-get upgrade -y \
  && git clone https://github.com/kenkov/cabocha \
  && pip install cabocha/
  
+RUN pip install gensim
+
